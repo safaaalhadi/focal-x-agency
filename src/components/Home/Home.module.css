@@ -1,0 +1,91 @@
+body {
+    box-sizing: border-box;
+   
+  }
+
+  .content{
+  max-width: 1366px;
+    height: 100vh;
+  }
+
+  
+  .app {
+    display:flex; 
+    margin-bottom: 13%; 
+
+
+    }
+    .appTwo {
+    margin: auto;
+    }
+   
+    .paragraph {
+      width: 374px;
+      height: 15px;
+      left: 284px;
+      top: 251px;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 19px;
+      line-height: 83.2%;
+      color: #282828;
+      text-align:right;
+    }
+    .box {
+      box-sizing: border-box;
+      position: relative;
+      width: 473px;
+      height: 44px;
+      left: -39px;
+      background: #FFFFFF;
+      border: 0.5px solid #282828;
+      border-radius: 18px;
+  
+    }
+    input{
+      padding-left: 28px;
+    }
+    .box > i {
+      font-size: 25px;
+      color: black;
+      border-left: 1.5px solid black;
+      padding-left: 10px;
+    }
+    .box > input {
+      flex: 1;
+      height: 30px;
+      border: none;
+      outline: none;
+      font-size: 17px;
+      width: 366px;
+      margin: 0 19px 0 10px ;
+    }
+    .top{
+      margin-top: -35%;
+    }
+   .mar{
+     margin: 100px 8% 0;
+   }
+   .Filt{
+     display: flex;
+   }
+    .filter{
+      cursor: pointer;
+      margin: auto;
+      
+    }
+   
+    @media (max-width:680px) {
+      .box {
+        width: 407px;
+        left: 5px;
+      }
+      i{
+        margin: 0 -20%;
+      }
+      .box > input {
+          width: 320px;
+          margin: 10px 84px 0 10px;
+      }
+    }
+  
