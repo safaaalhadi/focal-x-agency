@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/focal-x-agency/static/css/main.1959379e.css",
-    "main.js": "/focal-x-agency/static/js/main.11a4f08c.js",
+    "main.css": "/focal-x-agency/static/css/main.d12757d3.css",
+    "main.js": "/focal-x-agency/static/js/main.af7f6bea.js",
     "static/js/787.95dc4b95.chunk.js": "/focal-x-agency/static/js/787.95dc4b95.chunk.js",
     "static/media/focal X - Halftone Pattern.svg": "/focal-x-agency/static/media/focal X - Halftone Pattern.9dea40670f8a294aface828ad2260153.svg",
     "static/media/img.svg": "/focal-x-agency/static/media/img.faee14e2349b558f0a1bfab53392604d.svg",
     "index.html": "/focal-x-agency/index.html",
     "static/media/search.svg": "/focal-x-agency/static/media/search.b23073af9abbcf1ef65b4eeede8610e9.svg",
-    "main.1959379e.css.map": "/focal-x-agency/static/css/main.1959379e.css.map",
-    "main.11a4f08c.js.map": "/focal-x-agency/static/js/main.11a4f08c.js.map",
+    "main.d12757d3.css.map": "/focal-x-agency/static/css/main.d12757d3.css.map",
+    "main.af7f6bea.js.map": "/focal-x-agency/static/js/main.af7f6bea.js.map",
     "787.95dc4b95.chunk.js.map": "/focal-x-agency/static/js/787.95dc4b95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1959379e.css",
-    "static/js/main.11a4f08c.js"
+    "static/css/main.d12757d3.css",
+    "static/js/main.af7f6bea.js"
   ]
 }
